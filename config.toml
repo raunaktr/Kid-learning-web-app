@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://kids-learning-web-app-dev.netlify.app"
 languageCode = "en-us"
 title = "Kids Online Learning | landing page"
 description="description goes here"
