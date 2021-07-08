@@ -1,0 +1,24 @@
+---
+enable: true
+title: Testimonials
+description: What parents say?
+comments:
+  - text: This is the best overall experience I have had with any template of any kind. Statimania made me feel like a valued customer and I feel empowered.
+    name: Kanye West
+    designation: Hip-Hop Singer
+    image: images/client/client-2.png
+
+  - text: Apsho was easy to set-up and more importantly, was dead simple to customize. Buy this on sight. Most worthy template I've ever buy
+    name: Keith Urban
+    designation: Country Singer
+    image: images/client/client-1.png
+
+  - text: Best. customer. service. Seriously, I opened a ticket and they were so helpful and really seemed to care about my experience.
+    name: Elon Musk
+    designation: CEO
+    image: images/client/client-3.png
+     
+  - text: We’ve used their templates before and have always been hugely satisfied - Stack is no exception
+    name: Robert Downey Jr.
+    designation: Actor
+    image: images/client/client-1.png

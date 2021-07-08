@@ -1,0 +1,17 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: We Help Children Thrive 😊
+description: Live online coding classes from leading mentors and experts.
+services:
+    - icon: ti-video-camera
+      title: Live Online Classes
+      description: Your kid will learn cool new technologies from the safety of your home.
+
+    - icon: ti-comments-smiley
+      title: Expert Friendly Mentors
+      description: Learn from the best mentors who'll make learning a fun experience.
+
+    - icon: ti-headphone-alt
+      title: Great After Class Support
+      description: Stuck while doing assignments? Our expert team is available to help.

@@ -1,0 +1,19 @@
+---
+enable: true
+title: Frequently asked questions 🤔
+description: If you have any other questions, reach out to us at dev@mail.com
+faqItem:
+  - question: How do you enrol?
+    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: One
+    show: show
+
+  - question: How to request for a quote?
+    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: Two
+    show: 
+    
+  - question: Can we get to know about your instructor?
+    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: Three
+    show: 

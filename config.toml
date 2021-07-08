@@ -1,0 +1,99 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "Kids Online Learning | landing page"
+description="description goes here"
+theme="kids"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Learn to Code"
+    url = "#"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#"
+    weight = 2
+[[menu.main]]
+    name = "Contact"
+    url = "#"
+    weight = 3
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Faqs"
+    url = "/faqs"
+    weight = 1
+[[menu.sitemap]]
+    name = "Blogs"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Book a free demo"
+    url = "/#"
+    weight = 4
+
+# Footer second level menu
+[[menu.about]]
+    name = "Contact us"
+    url = "/contact"
+    weight = 1
+[[menu.about]]
+    name = "Our Story"
+    url = "/"
+    weight = 2
+[[menu.about]]
+    name = "Our team"
+    url = "/#"
+    weight = 3
+[[menu.about]]
+    name = "Careers"
+    url = "/"
+    weight = 4
+
+# Legal
+[[menu.legal]]
+    name = "Privacy Policy"
+    url = "/"
+    weight = 1
+[[menu.legal]]
+    name = "Terms of Use"
+    url = "/"
+    weight = 2
+[[menu.legal]]
+    name = "Code of Conduct"
+    url = "/"
+    weight = 3
+
+
+# Footer Address
+[params.address]
+address = "Line 1, address"
+
+[params.contact]
+email = "dev@example.com"
+phone = "+(1) 999 9999 999"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/"
+instagram="https://www.instagram.com/"
+twitter = "https://twitter.com/"
+linkedin = "https://www.linkedin.com/"
+
+[params]
+# Header
+logo = "images/logo.png"
+formspreeURL = ""
+googleAnalytics = ""
+
+# Footer
+footerTitle = "Join Our Mailing List"
+footerNewsletter = "Receive latest news, updates and many receivables every week."
+copyright = "Copyright ©2021 dev. All right reserved"
+
+#contact
+email = "dev@emai.com"
